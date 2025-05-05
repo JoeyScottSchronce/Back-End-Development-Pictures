@@ -1,4 +1,4 @@
-FROM python:3.9.16-slim
+FROM python:3.14-rc-alpine3.20
 
 WORKDIR /opt/app-root/src
 
